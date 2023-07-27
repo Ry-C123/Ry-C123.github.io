@@ -1,6 +1,6 @@
 ### Data Augmentation using Zernike Moments for realistic and extreeme PSFs
 
-
+#### Part1: Image subtraction
 **Project Context:** My PhD centred on the rapid discovery of kilonovae. These are the explosions caused by colliding neutron stars. They last between 2-10 days in the visible spectrum, so locating them fast is crucial to understanding their physics. The challenge is that we are looking for them as a counterpart to gravitational waves, the LIGO-O3 sensativity meant this was usually the whole sky (see below).
 
 <img src="images/LIGO.PNG?raw=true"/>
@@ -22,6 +22,7 @@ The solution to this problem is [Zernike Moments](https://www.researchgate.net/p
 
 <img src="images/Cat_port.PNG?raw=true"/>
 <p style="text-align:center"> Using Zernike Moments to rebuild the image of a kitten. </p>
+
 
 
 
