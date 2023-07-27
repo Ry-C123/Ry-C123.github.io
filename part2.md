@@ -23,7 +23,7 @@ Alright, so now we have an optimal image subtraction algorithm that can find tra
 
 In an earlier [research paper](https://academic.oup.com/mnras/article-abstract/499/4/6009/5920226?redirectedFrom=fulltext) we sucessfuly showed that injecting fake transients into the images is a viable data augmetation technique to train a machine learner to filter out false positives. One of the biggest problems faced in the paper was that the injected tranisents were not realstic. So, to improve training in my thesis, I implemented the Zernike Moments PSF estimator from part 1! As shown below, the injected sources would then much better represent what a true transient would look like in the GOTO data.
 
-
+<img src="images/INJECTION.PNG?raw=true"/>
 
 
 
