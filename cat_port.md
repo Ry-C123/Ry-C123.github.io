@@ -14,7 +14,7 @@ To search these large areas, we need a wide field telescope (GOTO). The problem 
 
 There are a few compounding issues here. The first is a kernel that makes no assumption about the PSF shape is needed. Secondly, the kernel needs to vary across the the image as the PSF is a function across a 2D plane (see below).
 
-IMAGE
+<img src="images/PSF_2D.PNG?raw=true"/>
 
 <p style="text-align:center"> The Full Width Half Maximum (FWHM) of the PSF across the image plane. Highlighting the variability of the PSF in a GOTO image. </p>
 
