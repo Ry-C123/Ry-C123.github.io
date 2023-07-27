@@ -9,19 +9,19 @@ To search these large areas, we need a wide field telescope [GOTO](https://acade
 
 <img src="images/Subtraction1.PNG?raw=true"/>
 
-<p style="text-align:center"> A guassian convolution kernel on a non-guassian point source, the convolved template does not match the target which results in a residual in the subtracted image. </p>
+<p style="text-align:center; font-size:6pt"> A guassian convolution kernel on a non-guassian point source, the convolved template does not match the target which results in a residual in the subtracted image. </p>
 
 
 There are a few compounding issues here. The first is a kernel that makes no assumption about the PSF shape is needed. Secondly, the kernel needs to vary across the the image as the PSF is a function across a 2D plane (see below).
 
 <img src="images/PSF_2D.PNG?raw=true"/>
 
-<p style="text-align:center"> The Full Width Half Maximum (FWHM) of the PSF across the image plane. Highlighting the variability of the PSF in a GOTO image. </p>
+<p style="text-align:center; font-size:6pt"> The Full Width Half Maximum (FWHM) of the PSF across the image plane. Highlighting the variability of the PSF in a GOTO image. </p>
 
 The solution to this problem is [Zernike Moments](https://www.researchgate.net/profile/Whoi-Yul-Kim/publication/222528464_A_novel_approach_to_the_fast_computation_of_Zernike_moments/links/5bd997de92851c6b279bcca7/A-novel-approach-to-the-fast-computation-of-Zernike-moments.pdf), Zernike moments are a function that maps an image onto a set of complex Zernike polynomials. In short, these functions can recrrate any abitraliy complex 2D images.
 
 <img src="images/Cat_port.PNG?raw=true"/>
-<p style="text-align:center"> Using Zernike Moments to rebuild the image of a kitten. </p>
+<p style="text-align:center; font-size:6pt"> Using Zernike Moments to rebuild the image of a kitten. </p>
 
 
 
