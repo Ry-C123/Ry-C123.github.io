@@ -32,13 +32,13 @@ An automatic web scraper to build sentiment analysis from Amazon reviews
 <img src="images/web-scrape2.PNG?raw=true"/>
 
 ---
-[Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 2](part2.md)
+#### [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 2](part2.md)
 A hefty chunk of my PhD thesis to train a computer to quickly find stellar transients in less than ideal telescope images.
 
 <img src="images/Galaxy_sub.PNG?raw=true"/>
 
 ---
-[Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
+#### [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
 Crerating a point spread function suitable for a tempromental wide-field telescope.
 
 <img src="images/Cat_port.PNG?raw=true"/>
