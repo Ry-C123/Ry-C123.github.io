@@ -4,6 +4,8 @@
 
 ### Work Projects 
 
+---
+
 #### Automatic Batch Returns and Component Analysis
 A real time alert system to notify the company when a product batch begins failing beyond the predicted amount. Component analysis is conducted to identify potential causes (see red circle in the Venn diagram). An impact report is built estimating company losses from the error. **\[Data obscured for confidentiality purposes\]**
 
