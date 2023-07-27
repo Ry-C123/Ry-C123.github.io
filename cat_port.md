@@ -23,7 +23,13 @@ The solution to this problem is [Zernike Moments](https://www.researchgate.net/p
 <img src="images/Cat_port.PNG?raw=true"/>
 <p style="text-align:center; font-size:10pt"> Using Zernike Moments to rebuild the image of a kitten. </p>
 
+Here's the result of the variable Zernike Moments function across one GOTO image. It's versatility allows for a variety of convolution kernels to be built.
 
+**IMAGE** 
+<p style="text-align:center; font-size:10pt"> Using Zernike Moments to build a variable convolution kernel across a GOTO image. </p>
 
+We can now compare the results of the subtraction of the leading software ([PSFex](https://www.astromatic.net/software/psfex/)) to my new Zenike Moments subtraction.
+
+**IMAGE**
 
 
