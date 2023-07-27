@@ -14,6 +14,7 @@
 ---
 #### Amazon Review Webscraper
 An automatic web scraper to build sentiment analysis from Amazon reviews 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
