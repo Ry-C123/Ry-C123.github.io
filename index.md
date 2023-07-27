@@ -8,8 +8,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Modified NSGA-II for Rapid Component Improvement in CFD simulations
+
+<img src="images/f_algo.gif?raw=true"/>
 
 ---
 #### Amazon Review Webscraper
