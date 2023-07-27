@@ -1,6 +1,6 @@
-### Data Augmentation using Zernike Moments for realistic and extreeme PSFs
+### Data Augmentation using Zernike Moments for realistic and extreeme PSFs Part1
 
-#### Part1: Image subtraction
+#### Part1: Image Subtraction, The need for a robust PSF kernel.
 **Project Context:** My PhD centred on the rapid discovery of kilonovae. These are the explosions caused by colliding neutron stars. They last between 2-10 days in the visible spectrum, so locating them fast is crucial to understanding their physics. The challenge is that we are looking for them as a counterpart to gravitational waves, the LIGO-O3 sensativity meant this was usually the whole sky (see below).
 
 <img src="images/LIGO.PNG?raw=true"/>
@@ -31,6 +31,8 @@ Here's the result of the variable Zernike Moments function across one GOTO image
 We can now compare the results of the subtraction of the leading software ([PSFex](https://www.astromatic.net/software/psfex/)) to my new Zenike Moments subtraction.
 
 <img src="images/SUBTRACTION.PNG?raw=true"/>
-<p style="text-align:center; font-size:8pt"> Comparison of PSFex to Zernike moment subtraction. There is a definite residual in the PSFex subtracrtion, whereas the *resdual* seen in ZM is not above the noise level.  </p>
+<p style="text-align:center; font-size:8pt"> Comparison of PSFex to Zernike moment kernels when computing image subtraction. There is a definite residual in the PSFex subtracrtion, whereas the "resdual" seen in ZM is not above the noise level. </p>
+
+Thus ends part 1! Here I have shown the need for a robust PSF kernel for image subtraction and how zernike moments was a way to achieve that. 
 
 
