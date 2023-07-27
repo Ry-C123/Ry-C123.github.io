@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Work Projects 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -12,7 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Amazon Review Webscraper]
+An automatic web scraper to build sentiment analysis from Amazon reviews 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
