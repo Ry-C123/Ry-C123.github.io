@@ -25,7 +25,26 @@ An automatic web scraper to build sentiment analysis from Amazon reviews
 <img src="images/web-scrape2.PNG?raw=true"/>
 
 ---
+#### Amazon Review Webscraper
+An automatic web scraper to build sentiment analysis from Amazon reviews 
 
+<img src="images/Web-Scrape.PNG?raw=true"/>
+<img src="images/web-scrape2.PNG?raw=true"/>
+
+---
+#### Amazon Review Webscraper
+An automatic web scraper to build sentiment analysis from Amazon reviews 
+
+<img src="images/Web-Scrape.PNG?raw=true"/>
+<img src="images/web-scrape2.PNG?raw=true"/>
+
+---
+[Data Augmentation using Zernike Moments for realistic and extreeme PSFs]
+A hefty chunk of my PhD thesis to train a computer to quickly find stellar transients in less than ideal telescope images.
+
+<img src="images/Web-Scrape.PNG?raw=true"/>
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
