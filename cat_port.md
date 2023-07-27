@@ -5,6 +5,13 @@
 
 <img src="images/LIGO.PNG?raw=true"/>
 
-To search these large areas, we need a wide field telescope (GOTO). The problem becomes finding new explosions in a sea of stars. To do this, astronomers use a technique called image subtraction. I implemented a parallelised pythonic version of the ZOGY algorithm, this meant image subtraction could be achieved on the large GOTO images in real time (i.e., image subtraction was completed in less time than the exposure time of the camerars). 
+To search these large areas, we need a wide field telescope (GOTO). The problem becomes finding new explosions in a sea of stars. To do this, astronomers use a technique called image subtraction. I implemented a parallelised pythonic version of the ZOGY algorithm, this meant image subtraction could be achieved on the large GOTO images in real time (i.e., image subtraction was completed in less time than the exposure time of the camerars). To make matters more difficult, GOTO had *extreeme* edges. Most telescopes are set such that stars will appear as circles with a 2D-Gaussian spread, this spresd is called the point spread function (PSF). However, this assumption does not hold true for GOTO, meaning a simple Guassian convolution kernel will not do the trick for image subtraction (see below).
+
+
+**IMAGE**
+
+Enter Zernike Moments!
+
+
 
 
