@@ -16,3 +16,10 @@ The above shows that even in the noisiest parts of the image (the centre of a ga
 <img src="images/SPEEDY.PNG?raw=true"/>
 
 Here, as stellar magnitude increses, the fainter they get. This means, that most tranients up to 19th magnitude (the noise limit of GOTO prototype images) would be found.  
+
+---
+
+Alright, so now we have an optimal image subtraction algorithm that can find transients down to the noise limit of the image in real-time. We now enter the meat of the final problem. Image subtraction was originally developed on very few and reltively small images, a person could scour them in an evening and pick out the interesting finds. GOTO, however, takes 100s of images every night and each of those images are huge! Even a team of 50 people would take years to look through all the images taken in one night. This means, spotting residuals in the subtracted image needs to be automatic. Luckily a tool called [SExtractor](https://www.astromatic.net/software/sextractor/) (seriously called that) already does this exact job. The problem with automation is that false posotives slip through, so human inspection is still needed. Again this was always doable with smaller images with roughly 100:1 false positives per real transient; GOTO on the other hand, is closer to 10,000:1 becuase of the sheer size of the images. The magnitude of the problem meant we needed to implement machine learning to filter out false posotives in the subtracted data! 
+
+
+
