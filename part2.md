@@ -29,7 +29,7 @@ For proof of concept, a basic neural net was built and trained on the subtracted
 
 <img src="images/BIG.PNG?raw=true"/>
 
-Finally, an image subtraction pipeline was built to run on the historic LIGO-O3 GOTO campaign data to find transients coincident with gravitational waves. This archive contained over 7000 images, the subtraction process produced 74317748 potential candidates that needed to be filtered. My algorithm reduced that number to just 49 potential candidates. Of the 49 candidates, 16 were determined to be transients that were temporally coincident with a gravitational wave event. This proved that GOTO is capable of real time transient discovery. 
+Finally, an image subtraction pipeline was built to run on the historic LIGO-O3 GOTO campaign data to find transients coincident with gravitational waves. This archive contained over 7000 images, the subtraction process produced 74317748 potential candidates that needed to be filtered. My algorithm reduced that number to just 49 potential candidates. Of the 49 candidates, 16 were determined to be transients that were temporally and spatially coincident with a gravitational wave event. This proved that GOTO is capable of real time kilonova discovery. 
 
 
 
