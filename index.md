@@ -46,13 +46,9 @@ Crerating a point spread function suitable for a tempromental wide-field telesco
 <img src="images/Cat_port.PNG?raw=true"/>
 
 ---
-### Category Name 2
+### Projects to Pass the time
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [The Modified Monty Hall Problem](https://github.com/Ry-C123/Modified_Monty_Hall/blob/main/Modified%20Monty%20Hall.ipynb)
 
 ---
 
