@@ -42,3 +42,4 @@ We concluded here, that there is digital content that can applied to each person
 
 I hosted a workshop with the major collaborators to come up with digital ideas that would attract customers in the different persona groups.  In total 155 unique ideas were established to attract customers. These ideas were then voted on, and the best were selected to present to the exec board. This was done using an interactive dashboard, and became the primary motivation to host an app.
 
+<img src="images/flywheel.gif?raw=true"/>
