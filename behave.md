@@ -36,4 +36,9 @@ Next I grouped surveys by sentiment to find prevailing persona types. In total t
 7. **The Explorer:** Wants to try new styles without dire reprocussions. Likes trying new products to see how they work. Will engage with digital content.
 
 1 and 2, and 5 and 6 had significant overlap in capbility, motivators and oppurtunity; so, I decided to consider each pair as one. Leaving 5 distinct personas. 
+We concluded here, that there is digital content that can applied to each persona.
+
+---
+
+I hosted a workshop with the major collaborators to come up with digital ideas that would attract customers in the different persona groups.  In total 155 unique ideas were established to attract customers. These ideas were then voted on, and the best were selected to present to the exec board. This was done using an interactive dashboard, and became the primary motivation to host an app.
 
