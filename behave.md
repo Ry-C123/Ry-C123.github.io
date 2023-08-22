@@ -24,4 +24,16 @@ Using sentiment analysis, I was able to pull out 5 repeating themes from survey 
 2. **Social Media:** A significant portion of our customer base want to show off their looks.
 3. **Ease of Life:** Styling hair is often part of the daily routine, making the process faster/easier/cheaper can be what makes a product stand out.
 4. **Personalisation:** Customers are more receptive when products feel like they were *made* for them.
-5. **Education:** One of the biggest blockers is users confidence when using the product. 
+5. **Education:** One of the biggest blockers is users confidence when using a product.
+
+Next I grouped surveys by sentiment to find prevailing persona types. In total there were 7 types of persona:
+1. **The beginner:** These are new users or people thinking to buy their first styler. Often younger, these people are willing to engage with digital content to learn and improve.
+2. **Infrequent User:** These users style for occasion (i.e., less than once a month). Usually less confident when styling, willing to engage with digital content to learn and improve.
+3. **The Veteran:** Frequently style, these users have developed habits already. Less inclined to take new information, but is looking for ways to make styling easier. 
+4. **The Bargain Hunter:** Styles hair regularly, is less interested in social motivators or hair health, wants styled hair at budget/quickly. 
+5. **The Show-off:** Wants the best gadgets on the market. Less interested in performance, cares about luxury and prestige.
+6. **The Wannabe Influencer:** Wants a product that they can use to look good on camera. This can be for cosmetic tutorials or just a good insta pic. Will engage with digital content, but not necessarily to learn/ 
+7. **The Explorer:** Wants to try new styles without dire reprocussions. Likes trying new products to see how they work. Will engage with digital content.
+
+1 and 2, and 5 and 6 had significant overlap in capbility, motivators and oppurtunity; so, I decided to consider each pair as one. Leaving 5 distinct personas. 
+
