@@ -1,2 +1,2 @@
 
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
+<a href="Ry-C123.github.io/blob/master/pdf/Dice%20Work.pdf" target="_blank">PDF.</a>
