@@ -1,5 +1,5 @@
-### List of Publications
+## List of Publications
 
 
-## Patents
-## Research Papers
+### Patents
+### Research Papers
