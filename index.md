@@ -51,7 +51,7 @@ Crerating a point spread function suitable for a tempromental wide-field telesco
 - [How many Rolls until theres a 50% chance you get 10 6s in a row](Dice_work.md)
 
 ---
-
+### [List of Publications](pubs.md)
 
 
 
