@@ -1,6 +1,6 @@
 ## How Many rolls until there's a 50% chance of getting 10 6s in a row
 
-This was a small project. Someone asked how many rolls does it take to have a 50% chance of getting 10 6s in a row. 
+Flexing my maths skills here, this was a small project. Someone asked how many rolls does it take to have a 50% chance of getting 10 6s in a row. 
 
 Brute forcing this on a computer would take well beyond the age of the universe. So, I initially found an iterative solution to the problem. This would still take ~2 months to solve the problem. 
 
