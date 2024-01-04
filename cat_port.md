@@ -12,7 +12,7 @@ To search these large areas, we need a wide field telescope [GOTO](https://acade
 <p style="text-align:center; font-size:8pt"> A guassian convolution kernel on a non-guassian point source, the convolved template does not match the target which results in a residual in the subtracted image. </p>
 
 
-There are a few compounding issues here. The first is a kernel that makes no assumption about the PSF shape is needed. Secondly, the kernel needs to vary across the the image as the PSF is a function across a 2D plane (see below).
+There are a few compounding issues here. The first, a kernel that makes no assumption about the PSF shape is needed. Secondly, the kernel needs to vary across the the image as the PSF is a function across a 2D plane (see below).
 
 <img src="images/PSF_2D.PNG?raw=true"/>
 
