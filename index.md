@@ -40,7 +40,7 @@ A hefty chunk of my PhD thesis to train a computer to quickly find stellar trans
 
 ---
 #### [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
-Crerating a point spread function suitable for a tempromental wide-field telescope.
+Crerating a point spread function suitable for a temperamental wide-field telescope.
 
 <img src="images/Cat_port.PNG?raw=true"/>
 
