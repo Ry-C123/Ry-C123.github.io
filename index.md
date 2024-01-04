@@ -20,8 +20,8 @@ A multi-objective optimisation problem, using the output of the simulation to ca
 <img src="images/f_algo.gif?raw=true"/>
 
 ---
-#### [Amazon Review Webscraper](MDS/AmazonRev.md)
-An automatic web scraper to build sentiment analysis from Amazon reviews 
+#### [Amazon Review Webscraper and Patent Sentinel](MDS/AmazonRev.md)
+An automatic web scraper to build sentiment analysis from Amazon reviews (code included). Another webscraper, but for published patent. Using the afformentioned to track competitor IP capture and monitor trends in the product space.
 
 <img src="images/Web-Scrape.PNG?raw=true"/>
 <img src="images/web-scrape2.PNG?raw=true"/>
