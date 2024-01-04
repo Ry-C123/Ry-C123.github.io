@@ -18,6 +18,11 @@ Using the data collected, I was able to inform multiple pillars of the company, 
 
 In addition to scoping sentiment and product improvement. This technique has also proven benefitial to fight patent infringments or competitor claims quickly. One can scour reviews for comments relating to a technology or product as proof as a way to counter aguments. I successfully shot down two competitor patents claiming a technology my company had be using for years and prevented us from getting sued once; using the reviews as evidence the invention already existed in the product portfolio.  
 
+## The Patent Sentinel
+
+In a similar vein to the amazon web-scraper, the patent sentinal screens 
+
+
 ## The Code
 
 ```python 
