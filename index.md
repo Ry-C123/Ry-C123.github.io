@@ -47,8 +47,10 @@ Crerating a point spread function suitable for a tempromental wide-field telesco
 ---
 ### Projects to Pass the time
 
-- [The Modified Monty Hall Problem](https://github.com/Ry-C123/Modified_Monty_Hall/blob/main/Modified%20Monty%20Hall.ipynb)
 - [How many Rolls until theres a 50% chance you get 10 6s in a row](Dice_work.md)
+- [The Modified Monty Hall Problem](https://github.com/Ry-C123/Modified_Monty_Hall/blob/main/Modified%20Monty%20Hall.ipynb)
+- [LSSTplasticc Kaggle Challenge](https://github.com/Ry-C123/LSSTplasticc_kaggle/tree/master)
+
 
 ---
 ### [List of Publications](pubs.md)
