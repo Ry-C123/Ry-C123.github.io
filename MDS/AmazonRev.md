@@ -9,8 +9,8 @@ Generally speaking, sentiment can be determined by star ratings. All >1 star rat
 
 After the analysis has been done word clouds can be built to establish key themes in the ratings. 
 
-<img src="./images/Web-Scrape.PNG?raw=true"/>
-<img src="./images/web-scrape2.PNG?raw=true"/>
+<img src="/images/Web-Scrape.PNG?raw=true"/>
+<img src="/images/web-scrape2.PNG?raw=true"/>
 
 These word clouds have been moderated slightly to avoid giving away any top secret info!
 
