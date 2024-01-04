@@ -15,7 +15,7 @@ These word clouds have been moderated slightly to avoid giving away any top secr
 Using the data collected, I was able to inform multiple pillars of the company, from R&D to Marketing! This helped tailor advertising strategy throughout the year and reveled pain points of us
 
 
-###Code
+### Code
 
 ```python 
 import random
