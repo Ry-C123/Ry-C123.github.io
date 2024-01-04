@@ -20,7 +20,7 @@ In addition to scoping sentiment and product improvement. This technique has als
 
 ## The Patent Sentinel
 
-In a similar vein to the amazon web-scraper, the patent sentinal screens 
+In a similar vein to the amazon web-scraper, the patent sentinal screens the [IP Office](https://www.ipo.gov.uk/p-pj) for patentes that contain key words relevant to the industry  
 
 
 ## The Code
