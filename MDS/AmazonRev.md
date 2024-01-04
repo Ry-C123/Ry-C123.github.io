@@ -1,7 +1,7 @@
 ## Amazon Review Webscraper
 
 One of the first challenges I was given working in [current company] was to quickly determine sentiment of amazon purchases. 
-I started by building a generalised web scraper (All the scraping code at the bottom of the page 😉) and using that too mine the data.
+I started by building a generalised web scraper (All the scraping code at the bottom of the page 😉) and using that to mine the data.
 
 All the content of the review is captured; including date it was written, product rating, images, URL of the review, if the purchase is verrfied, and the product variant. This means you can filter your search by more than just product.
 
@@ -12,10 +12,11 @@ After the analysis has been done word clouds can be built to establish key theme
 
 These word clouds have been moderated slightly to avoid giving away any top secret info!
 
-Using the data collected, I was able to inform multiple pillars of the company, from R&D to Marketing! This helped tailor advertising strategy throughout the year and reveled pain points of us
+Using the data collected, I was able to inform multiple pillars of the company, from R&D to Marketing! This helped tailor advertising strategy throughout the year and reveled pain points we can fix (one was ergonomics for design, the other was lowering the weight of the product).
 
+In addition to scoping sentiment and product improvement. This technique has also proven benefitial to fight patent infringments or competitor claims quickly. One can scour reviews for comments relating to a technology or product as proof as a way to counter aguments. I successfully shot down two competitor patents claiming a technology my company had be using for years and prevented us from getting sued once; using the reviews as evidence the invention already existed in the product portfolio.  
 
-### Code
+## The Code
 
 ```python 
 import random
