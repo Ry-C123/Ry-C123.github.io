@@ -15,7 +15,7 @@ The above shows that even in the noisiest parts of the image (the centre of a ga
 
 <img src="images/SPEEDY.PNG?raw=true"/>
 
-Here, as stellar magnitude increses, the fainter they get. This means, that most tranients up to 19th magnitude (the noise limit of GOTO prototype images) would be found.  
+Here, as stellar magnitude increses, the fainter they get. This means, that most transients up to 19th magnitude (the noise limit of GOTO prototype images) would be found.  
 
 ---
 
