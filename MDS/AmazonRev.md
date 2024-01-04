@@ -20,7 +20,11 @@ In addition to scoping sentiment and product improvement. This technique has als
 
 ## The Patent Sentinel
 
-In a similar vein to the amazon web-scraper, the patent sentinal screens the [IP Office](https://www.ipo.gov.uk/p-pj) for patentes that contain key words relevant to the industry  
+In a similar vein to the amazon web-scraper, the patent sentinal screens the [IP Office](https://www.ipo.gov.uk/p-pj) for patentes that contain key words relevant to the industry or published by lead competitors. The scrape will flag any "high importance" patents in an email and also writes all of the patents (published or otherwise) and their information to an excel sheet. (I personally did not want to use excel, but it was my teams medium of choice... democracy.) Graphs are automatically generated detailing opponent patent history and anticipated future submission frequency. 
+
+[image here]
+
+This was a useful way to communicate to execs how our IP capture efforts were going in comparison to competitors and also to demonstrate trends in patent areas. 
 
 
 ## The Code
