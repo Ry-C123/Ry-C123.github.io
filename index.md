@@ -20,7 +20,7 @@ A multi-objective optimisation problem, using the output of the simulation to ca
 <img src="images/f_algo.gif?raw=true"/>
 
 ---
-#### Amazon Review Webscraper
+#### [Amazon Review Webscraper](MDS/AmazonRev.md)
 An automatic web scraper to build sentiment analysis from Amazon reviews 
 
 <img src="images/Web-Scrape.PNG?raw=true"/>
