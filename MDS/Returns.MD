@@ -7,6 +7,7 @@ After six months of working at [company], I was tasked with cleaning some return
 The first thing I did was break down WHY the problem had been missed. Up until my snooping, the company was using bulk retail performance of each product per region. This meant that returns impact of faulty batches were convolved with returns of products that were performing normally. This meant that while the functioning batches saturated the sales the underlying problem went undetected **for months**. A second problem was with data capture and data quality. To avoid this problem happening again I developed an intuitive visualisation and alert system that will show when batches start under-performing. 
 
 <img src="/images/BScatter.PNG?raw=true"/>
+
 ## Determining the problem
 
 ## Modelling the Impact
