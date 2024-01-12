@@ -10,6 +10,7 @@
 - [The effect of a magnetic field on the dynamics of debris discs around white dwarfs](https://academic.oup.com/mnras/article/500/3/2986/5942887)
 - [The Gravitational-wave Optical Transient Observer (GOTO): prototype performance and prospects for transient science](https://academic.oup.com/mnras/article/511/2/2405/6505141)
 - [Searching for electromagnetic counterparts to gravitational-wave merger events with the prototype Gravitational-Wave Optical Transient Observer (GOTO-4)](https://academic.oup.com/mnras/article/497/1/726/5866841)
+- [GRB 171205A: GOTO detection of the optical counterpart](https://ui.adsabs.harvard.edu/abs/2017GCN.22190....1S/abstract)
 
 ### Co-Author
 
@@ -18,4 +19,6 @@
 - [Observational constraints on the optical and near-infrared emission from the neutron star–black hole binary merger candidate S190814bv](https://www.aanda.org/articles/aa/abs/2020/11/aa37669-20/aa37669-20.html)
 - [Searching for Fermi GRB optical counterparts with the prototype Gravitational-wave Optical Transient Observer (GOTO)](https://academic.oup.com/mnras/article/507/4/5463/6366256)
 - [LIGO/Virgo G268556: Early SWASP limits of ATLAS17aeu](https://ui.adsabs.harvard.edu/abs/2017GCN.20434....1S/abstract)
-- 
+- [GRB181201A: GOTO optical observations](https://ui.adsabs.harvard.edu/abs/2018GCN.23503....1R/abstract)
+- [GRB 180914B: GOTO optical detection](https://ui.adsabs.harvard.edu/abs/2018GCN.23252....1R/abstract)
+- [Observational constraints on the optical and near-infrared emission from the neutron star-black hole binary merger S190814bv](https://hal.science/hal-02904245/document)
