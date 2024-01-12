@@ -8,6 +8,8 @@ The first thing I did was break down WHY the problem had been missed. Up until m
 
 <img src="/images/BScatter.PNG?raw=true"/>
 
+The above is manufacture date against returns lag (time between manufacture and return) in discrete units (days/weeks/months). The colour of the dot indicates the proportion of the batch made in that manufacturing month that has been returned. The company only care about losses, so any returns after the warranty period are not of concern.  
+
 ## Determining the problem
 
 ## Modelling the Impact
