@@ -12,6 +12,12 @@ The above is manufacture date against returns lag (time between manufacture and 
 
 ## Determining the problem
 
+Seeing this was a batch issue, I asked for a component break down of some working batches and some broken batches. Using some basic set theory, my hope was that I could highlight shared components in the broken stylers that weren't present in the working batches. 
+
+<img src="/images/BAnaly_found.png?raw=true"/>
+
+The evidence here was clear. There was only one component that was consistent in the broken batches and not the working batches. What's more, this component had been introduced as a result from supply chain issues at the exact manufacture date the returns started. This compnonent analysis saved about 3 months of testing. (As an aside, the component introduced had a lower breaking tolerance; this emphasised a fault that occurs in the working batches. Years of testing prior to me starting was unable to diagnose the problem. Using my analysis, the company were finally able to address this issue, saving the company millions.)
+
 ## Modelling the Impact
 
 ## Tracking the damage
