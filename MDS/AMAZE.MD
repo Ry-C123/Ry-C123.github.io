@@ -2,6 +2,6 @@
 
 (Full article is my first meidum digest post!)
 
-TL;DR I created a reinforcment learning machine to play the game AMaze, a puzzel game where you have to colour the tiles inside a maze. It was optomised to finish each challenge in the fewest moves. I then created a "speed tunning" category of which I am the best player [TODAYS DATE].
+TL;DR I created a reinforcment learning machine to play the game AMaze, a puzzel game where you have to colour the tiles inside a maze. The tool was optomised to finish each challenge in the fewest moves. I then created a "speed running" category of which I am the best player [TODAYS DATE].
 
 ---
