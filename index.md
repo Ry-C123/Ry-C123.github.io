@@ -15,7 +15,7 @@ A real time alert system to notify the company when a product batch begins faili
 
 ---
 #### Modified NSGA-II for Rapid Component Improvement in CFD simulations 
-A multi-objective optimisation problem, using the output of the simulation to calculate objectives and then use the algorithm to iterate component parameters to improve performance. **\[Data obscured for confidentiality purposes\]**
+A multi-objective optimisation problem, using the output of a CFD simulation to calculate objectives and then use the algorithm to iterate component parameters to improve performance. **\[Data obscured for confidentiality purposes\]**
 
 <img src="images/f_algo.gif?raw=true"/>
 
