@@ -26,7 +26,7 @@ In a similar vein to the amazon web-scraper, the patent sentinal screens the [IP
 
 This was a useful way to communicate to execs how our IP capture efforts were going in comparison to competitors and also to demonstrate trends in patent areas. 
 
-## 
+## Another task
 
 <img src="/images/Patent-Topic-analysis.PNG?raw=true"/>
 
