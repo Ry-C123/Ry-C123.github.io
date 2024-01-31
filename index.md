@@ -21,7 +21,7 @@ A multi-objective optimisation problem, using the output of the simulation to ca
 
 ---
 #### [Amazon Review Webscraper and Patent Sentinel](MDS/AmazonRev.md)
-An automatic web scraper to build sentiment analysis from Amazon reviews (code included). Plus another webscraper, but for published patents. Using the afformentioned to track competitor IP capture and monitor trends in the product space. Finally a touch on NLP. Using LDA on scraped patents to group topics and predict competitor research strategy.
+An automatic web scraper to build sentiment analysis from Amazon reviews (code included). Plus another webscraper, but for published patents. Using the afformentioned to track competitor IP capture and monitor trends in the product space. Finally a touch on NLP. Using LDA of scraped patents to group topics and predict competitor research strategy.
 
 <img src="images/Web-Scrape.PNG?raw=true"/>
 <img src="images/web-scrape2.PNG?raw=true"/>
