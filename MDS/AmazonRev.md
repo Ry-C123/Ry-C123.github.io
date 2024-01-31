@@ -26,12 +26,14 @@ In a similar vein to the amazon web-scraper, the patent sentinal screens the [IP
 
 This was a useful way to communicate to execs how our IP capture efforts were going in comparison to competitors and also to demonstrate trends in patent areas. 
 
-## Another task
+## Topic Modelling to Determine Competitor Priorities.
+
+Some of the things that one can scrape include: claims, abstracts, titles, and owner. Given that my current company's main competitor is churning out 50 patents a month, dedicating resource to following their patent history and mapping their direction is expensive. Using Latent Dirichlet Allocation (LDA) on the titles, abstracts, and claims. I was able to group competitor patents into different and distint themes. Using publication frequency, we can quickly see what research they are prioritising and pivot our research strategies around competitor behaviour. 
 
 <img src="/images/Patent-Topic-analysis.PNG?raw=true"/>
 
 
-## The Code
+## The Amazon Code
 
 ```python 
 import random
