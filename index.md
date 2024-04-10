@@ -27,6 +27,9 @@ An automatic web scraper to build sentiment analysis from Amazon reviews (code i
 <img src="images/web-scrape2.PNG?raw=true"/>
 
 ---
+#### Supply Chain Sankey Diagram
+
+---
 #### Advanced SIRD model predicting COVID labour shortages
 Analysis of Covid labour shortages. An advanced SIRD model that includes reinfection and a variable R-factor. The model was used to help inform policy decision on when (or if) a second lockdown should happen. The model predicted the labour shortages of key sectors such as waste managment and supermarket staff. **\[Data obscured for security purposes\]** 
 
