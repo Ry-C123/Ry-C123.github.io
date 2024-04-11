@@ -16,7 +16,7 @@ These word clouds have been moderated slightly to avoid giving away any top secr
 
 Using the data collected, I was able to inform multiple pillars of the company, from R&D to Marketing! This helped tailor advertising strategy throughout the year and revealed pain points we can fix (one was design ergonomics, the other was lowering the weight of the product).
 
-In addition to scoping sentiment and product improvement. This technique has also proven benefitial to fight patent infringments or competitor claims quickly. One can scour reviews for comments relating to a technology or product as proof as a way to counter aguments. I successfully shot down two competitor patents claiming a technology my company had be using for years and prevented us from getting sued once; using the reviews as evidence the invention already existed in the product portfolio.  
+In addition to scoping sentiment and product improvement. This technique has also proven benefitial to fight patent infringments or competitor claims quickly. One can scour reviews for comments relating to a technology or product for proof to counter IP aguments. I successfully shot down two competitor patents attempting to claim a technology my company had be using for years, and prevented us from getting sued once; using the reviews as evidence a technology already existed in our product portfolio before the publication of the infringed patent.  
 
 ## The Patent Sentinel
 
