@@ -16,7 +16,7 @@ Seeing this was a batch issue, I asked for a component break down of some workin
 
 <img src="/images/BAnaly_found.png?raw=true"/>
 
-The evidence here was clear. There was only one component that was consistent in the broken batches and not the working batches. What's more, this component had been introduced as a result from supply chain issues at the exact manufacture date the returns started. This compnonent analysis saved about 3 months of testing. (As an aside, the component introduced had a lower breaking tolerance than the original; this pointed to a fault that also occurs in the working batches. Years of testing prior to me starting was unable to diagnose the problem. Using my analysis, the company were finally able to address this issue, saving the company millions.)
+The evidence here was clear. There was only one component that was consistent in the broken batches that was not present in the working batches. What's more, this component had been introduced as a result from supply chain issues at the exact manufacture date the returns started. This compnonent analysis saved about 3 months of testing. (As an aside, the component introduced had a lower breaking tolerance than the original; this pointed to a fault that also occurs in the working batches. Years of testing prior to me starting was unable to diagnose the problem. Using my analysis, the company were finally able to address this issue, saving the company millions.)
 
 ## Modelling the Impact
 
