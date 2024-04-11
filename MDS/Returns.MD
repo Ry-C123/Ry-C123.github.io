@@ -12,7 +12,7 @@ The above is manufacture date against returns lag (time between manufacture and 
 
 ## Determining the problem
 
-Seeing this was a batch issue, I asked for a component break down of some working batches and some broken batches. Using some basic set theory, my hope was that I could highlight shared components in the broken stylers that weren't present in the working batches. 
+Seeing this was a batch issue, I asked for a component break down of some working batches and some broken batches. Using some basic set theory, my hope was that I could highlight shared components in the broken stylers that weren't in the working batches. 
 
 <img src="/images/BAnaly_found.png?raw=true"/>
 
