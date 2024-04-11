@@ -26,7 +26,7 @@ The best indicator (at the time) that a batch was going to have a high return ra
 
 Using a Markov-Chain Sampling Model I predicted a total return of 10.6% per faulty batch (with a +5% -2% uncertainty). I was even able to show, that regardless of starting severity, the returns would generally converge to this value. Using my model, I did an impact analysis detailing the maximum cost impact to the company while the faulty batch were still in circulation.
 
-<img src="/images/MCM.PNG?raw=true"/>
+<img src="/images/Damage.PNG?raw=true"/>
 
 All of the above were used by the Exec team (CEO et al) to decide the best course of action going forward.
 
