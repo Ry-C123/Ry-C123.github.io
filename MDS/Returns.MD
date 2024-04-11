@@ -20,6 +20,10 @@ The evidence here was clear. There was only one component that was consistent in
 
 ## Modelling the Impact
 
+The best indicator (at the time) that a batch was going to have a high return rate that month was looking at returns rates the previous month of itself and the batches either side of it. From this, I built a three dimensional model. The axes have been obscured for confidentiality purposes.
+
+<img src="/images/BAnaly_found.png?raw=true"/>
+
 ## Tracking the damage
 
 ## Outcomes
