@@ -12,7 +12,7 @@ For the Z>0 group my accuracy was a little less great:
 
 <img src="/images/LSSTKAG/CFM2.PNG?raw=true"/>
 
-If I had more time I would have looked more deeply into classes 15,42, 52, and 62. The fact that they were the only ones where there was true confusion suggests they belong in the same super-class. The trebulations of a PhD means you don't have much time to waste on fun challenges!
+If I had more time I would have looked more deeply into classes 15,42, 52, 62, 67, and 90. The fact that they were the only ones where there was true confusion suggests they belong in the same super-class. The trebulations of a PhD means you don't have much time to waste on fun challenges!
 
 I believe for a first attempt at any machine learning my placement in the rankings was respectable.
 
