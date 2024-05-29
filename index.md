@@ -38,6 +38,7 @@ Analysis of Covid labour shortages. An advanced SIRD model that includes reinfec
 
 - [Reinforcement learning to solve *AMaze* game](MDS/AMAZE.MD) 
 - [How many Rolls until theres a 50% chance you get 10 6s in a row](Dice_work.md)
+- [Advanced SIRD model predicting COVID labour shortages](MDS/SIRD_MOD.MD)
 - [The Modified Monty Hall Problem](https://github.com/Ry-C123/Modified_Monty_Hall/blob/main/Modified%20Monty%20Hall.ipynb)
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 2](part2.md)
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
