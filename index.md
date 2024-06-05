@@ -20,6 +20,10 @@ An automatic web scraper to build sentiment analysis from Amazon reviews (code i
 <img src="images/Web-Scrape.PNG?raw=true"/>
 <img src="images/web-scrape2.PNG?raw=true"/>
 
+---
+### [List of Publications](pubs.md)
+
+---
 
 ### Other Interesting Projects
 
@@ -31,12 +35,6 @@ An automatic web scraper to build sentiment analysis from Amazon reviews (code i
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 2](part2.md)
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
 - [LSSTplasticc Kaggle Challenge](MDS/LSSTKAG.MD)
-
-
----
-### [List of Publications](pubs.md)
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
