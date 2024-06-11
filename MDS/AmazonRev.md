@@ -1,6 +1,5 @@
 # Web Scraping With Natural Language Processing
 
----
 
 ## Amazon Review Webscraper
 
