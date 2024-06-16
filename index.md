@@ -31,7 +31,7 @@ An automatic web scraper to build sentiment analysis from Amazon reviews (code i
 - [How many Rolls until theres a 50% chance you get 10 6s in a row](Dice_work.md)
 - [Modified NSGA-II for Rapid Component Improvement in CFD simulations](MDS/NSGAII.MD)
 - [Advanced SIRD model predicting COVID labour shortages](MDS/SIRD_MOD.MD)
-- [The Modified Monty Hall Problem](https://github.com/Ry-C123/Modified_Monty_Hall/blob/main/Modified%20Monty%20Hall.ipynb)
+- [Outreach: The Modified Monty Hall Problem](MDS/GamesAndGoats.MD)
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 2](part2.md)
 - [Data Augmentation using Zernike Moments for realistic and extreeme PSFs PART 1](cat_port.md)
 - [LSSTplasticc Kaggle Challenge](MDS/LSSTKAG.MD)
