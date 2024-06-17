@@ -6,9 +6,9 @@ One thing I liked about outreach is that I could often demonstrate the intersect
 $$
 Strategy =
 \\begin{cases}
-\\text{Switch} & \\quad \\text{when $N_c/N_d < 0.5$}\\\\
-\\text{Coin Toss} & \\quad \\text{when $N_c/N_d = 0.5$}\\\\
-\\text{Stick} & \\quad \\text{when $N_c/N_d > 0.5$}
+\\text{Switch} & \\quad \\text{when $P_T < 1$}\\\\
+\\text{Coin Toss} & \\quad \\text{when $P_T = 1$}\\\\
+\\text{Stick} & \\quad \\text{when $PT> 1$}
 \\end{cases}
 $$
 
