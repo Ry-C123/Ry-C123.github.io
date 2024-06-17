@@ -4,7 +4,6 @@ One thing I liked about outreach is that I could often demonstrate the intersect
 
 ## Monty Hall +
 
-{% raw %}
 $$
 Strategy =
 \\begin{cases}
@@ -13,7 +12,9 @@ Strategy =
 \\text{Stick} & \\quad \\text{when $P_T> 1$}
 \\end{cases}
 $$
-{% endraw %}
+
+
+
 
 ## Greedy Piggies
 
