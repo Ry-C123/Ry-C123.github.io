@@ -8,7 +8,7 @@ Strategy =
 \\begin{cases}
 \\text{Switch} & \\quad \\text{when $P_T < 1$}\\\\
 \\text{Coin Toss} & \\quad \\text{when $P_T = 1$}\\\\
-\\text{Stick} & \\quad \\text{when $PT> 1$}
+\\text{Stick} & \\quad \\text{when $P_T> 1$}
 \\end{cases}
 $$
 
