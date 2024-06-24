@@ -26,7 +26,7 @@ This means your chance of winning becomes the sum of winning by picking each doo
 <img src="/images/GanGs/bwp.PNG?raw=true"/>
 <img src="/images/GanGs/Cw.PNG?raw=true"/>
 
-<img src="/images/GanGs/ppl.PNG?raw=true"/>
+<img src="/images/GanGs/ppl.png?raw=true"/>
 
 <img src="/images/GanGs/DoubleGoat.gif?raw=true"/>
 
