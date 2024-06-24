@@ -8,6 +8,19 @@ The Monty Hall Problem is a well known maths puzzle. The concept being, there ar
 
 <img src="/images/GanGs/wwl.PNG?raw=true"/>
 
+We can run a simulation to show this:
+
+<img src="/images/GanGs/REGULAR.gif?raw=true"/>
+
+Thing is, that's easy. What happens if you aren't given the option to switch if you pick one of the goats (the blue goat). Now we can only win a third of the time; what's worse, it doesn't matter if we chose to switch or not. Our switching power is 50%. The blue goat makes the game a lot harder to win.
+
+<img src="/images/GanGs/lwl.PNG?raw=true"/>
+
+Another simulation:
+
+<img src="/images/GanGs/BlueGoat.gif?raw=true"/>
+
+
 
 $$
 Strategy =
