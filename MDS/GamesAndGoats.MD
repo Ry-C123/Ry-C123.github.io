@@ -20,6 +20,13 @@ Another simulation:
 
 <img src="/images/GanGs/BlueGoat.gif?raw=true"/>
 
+A next step to make things more exciting is to make it so the blue goat has a *chance* of not switching. We call this chance P. 
+This means your chance of winning becomes the sum of winning by picking each door.
+
+<img src="/images/GanGs/bwp.PNG?raw=true"/>
+<img src="/images/GanGs/Cw.PNG?raw=true"/>
+
+
 
 
 $$
