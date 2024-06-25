@@ -40,8 +40,58 @@ Strategy =
 \\end{cases}
 $$
 
+### Code
 
+doors = [0,1,2] #rg, bg, car
+W = 0 # Number of Wins
+L = 0 # Number of Loses
+S = 0 # Number of Switches
+P1 = 0.14 #Probability of not switching on goat 1
+P2 = 0.05 #Probability of not swtiching for goat 2
+PT = P1 + P2 #Sum of the two probabilties
+Sp = (PT-2.)/(PT-3.) # Predicted Switching Power
+Cw = 2./3 - PT/3 #Predited chances of winning
 
+```python
+fig, ax = plt.subplots() #Begin Plot
+def update(i):
+    global W
+    global L
+    global S
+    ax.clear()
+    ax.cla()
+    ax.set_ylim(0,1)
+    random.shuffle(doors)
+    ax.hlines(Cw, -0.5, 0.5, colors='gold', linestyles='dashed')  # Add horizontal line
+    ax.hlines(1-Cw, 0.5, 1.5, colors='red', linestyles='dashed')  # Add horizontal line
+    ax.hlines(Sp, 1.5, 2.5, colors='powderblue', linestyles='dashed')  # Add horizontal line
+    for _ in range(10):
+        gorc = random.choice(doors) #goat or car
+        if gorc == 0: #goat 1
+            if random.uniform(0, 1) <=P1:
+                L+=1
+            else:
+                W+=1
+                S+=1
+        elif gorc == 1: #goat 2
+            if random.uniform(0, 1) <=P2:
+                L+=1
+            else:
+                W+=1
+                S+=1
+        else: #car
+            L+=1
+            S+=1
+    
+    ax.bar(x = ['Wins', 'Loses', 'S-Power'], height = [W/(W+L),L/(W+L), W/(0.000001+S)], color=['gold', 'red', 'powderblue'])
+    
+# Create the animation
+ani = FuncAnimation(fig, update, frames=range(5000), repeat=False, blit=False)
+
+# Save the animation as a GIF
+ani.save('DoubleGoat.gif', writer=PillowWriter(fps=24))
+plt.show()   
+```
 
 ## Greedy Piggies
 
