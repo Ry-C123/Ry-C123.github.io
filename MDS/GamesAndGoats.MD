@@ -42,6 +42,7 @@ $$
 
 ### Code
 
+```python
 doors = [0,1,2] #rg, bg, car
 W = 0 # Number of Wins
 L = 0 # Number of Loses
@@ -52,7 +53,6 @@ PT = P1 + P2 #Sum of the two probabilties
 Sp = (PT-2.)/(PT-3.) # Predicted Switching Power
 Cw = 2./3 - PT/3 #Predited chances of winning
 
-```python
 fig, ax = plt.subplots() #Begin Plot
 def update(i):
     global W
