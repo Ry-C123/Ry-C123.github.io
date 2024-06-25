@@ -30,16 +30,6 @@ This means your chance of winning becomes the sum of winning by picking each doo
 
 <img src="/images/GanGs/DoubleGoat.gif?raw=true"/>
 
-
-$$
-Strategy =
-\\begin{cases}
-\\text{Switch} & \\quad \\text{when $P_T < 1$}\\\\
-\\text{Coin Toss} & \\quad \\text{when $P_T = 1$}\\\\
-\\text{Stick} & \\quad \\text{when $P_T> 1$}
-\\end{cases}
-$$
-
 ### Code
 
 ```python
