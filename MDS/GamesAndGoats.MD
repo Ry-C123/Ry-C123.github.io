@@ -90,7 +90,21 @@ ani = FuncAnimation(fig, update, frames=range(5000), repeat=False, blit=False)
 
 # Save the animation as a GIF
 ani.save('DoubleGoat.gif', writer=PillowWriter(fps=24))
-plt.show()   
+plt.show()
+
+PT = np.linspace(0,2, 1000)
+Cw = 2./3-1/3*(PT)
+Sp = (PT-2)/(PT-3)
+
+plt.plot(PT, Cw, label=r'$C_w$')
+plt.plot(PT, Sp, label=r'$S_p$')
+plt.axhline(0.5, c='k', ls=':')
+plt.axvline(1.0, c='k', ls=':')
+plt.xlabel(r"$P_T$")
+plt.legend()
+
+plt.savefig('Goat_bow.png', bbox_inches='tight')
+plt.show()
 ```
 
 ## Greedy Piggies
