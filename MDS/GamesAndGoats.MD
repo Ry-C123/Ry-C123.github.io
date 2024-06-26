@@ -39,7 +39,33 @@ The rules of Greedy Pig
 * Each player gets 10 turns.
 * The player with the highest total score after all turns wins.
 
-First, the students are told to come up with a strategy. They are given two bots they need to beat/learn the code format `loser_bot` and `greedy_bot`.
+First, the students are told to come up with a strategy. They are given two bots they need to beat/learn the code format; `loser_bot` and `greedy_bot`.
+
+```python
+
+#Just a really bad strategy 
+def loser_bot(D, round_number, bot_score, op_score):
+    roll = roll_dice(D)
+    return roll if roll>1 else 0
+
+#Never stops rolling
+def greedy_bot(D, round_number, bot_score, op_score):
+    """
+    inputs: D = [1,2,3,4,5,6... F] a list of numbers up to the number of faces on your dice
+            round_number = turn number (e.g., first turn round_numer =1, second turn round_number =2)
+            bot_score = your total score so far
+            op_score = your opponents score so far
+    --------------------------------------------------------------------------------------------------
+    output: score = the amount you scroed this round
+    """
+    score = 0
+    while True:
+        roll = roll_dice(D)
+        if roll == 1:
+            return 0
+        score += roll
+    return score
+```
 
 
 <img src="/images/GanGs/MAX_ROLLS.gif?raw=true"/>
