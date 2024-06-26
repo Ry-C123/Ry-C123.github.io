@@ -4,7 +4,7 @@ One thing I liked about outreach is that I could often demonstrate the intersect
 
 ## Monty Hall +
 
-The Monty Hall Problem is a well known maths puzzle. The concept being, there are 3 doors behind two of the doors are goats, behind the remaining door is a car. Your job is to pick one of the doors, then Monty will remove one of the remaining doors containing a goat. You then have the option to switch the door. The surprising outcome is that you will win two thirds of the time if you choose to switch. This result can be explained easily if you look at how the all the possible outcomes at once.
+The Monty Hall Problem is a well known maths puzzle. The concept being, there are 3 doors behind two of the doors are goats, behind the remaining door is a car. Your job is to pick one of the doors, then Monty will remove one of the remaining doors containing a goat. You then have the option to switch the door. The surprising outcome is that you will win two thirds of the time if you choose to switch. This result can be explained easily if you look at all the possible outcomes at once.
 
 <img src="/images/GanGs/wwl.PNG?raw=true"/>
 
