@@ -67,7 +67,12 @@ def greedy_bot(D, round_number, bot_score, op_score):
     return score
 ```
 
+The bots are then made to compete with each other 5000 times. Below, I've shown an example of some of my favourite bots the students have come up with. To note, `greedy_bot` always rolls so should never win. `CopyCat` copies the oponents strategy which is why it's win rate is roughly 50%. Also note, annoyingly, `BlackJack` has a target score of **21 per round** and `Elastic` tries for **5 rolls** and then tries to catch up if it's too far behind. I'll explain why this is annoying in a moment!
+
 <img src="/images/GanGs/AllVall.png?raw=true"/>
+
+heer here
+
 <img src="/images/GanGs/MAX_ROLLS.gif?raw=true"/>
 
 ## SIRD Modelling
