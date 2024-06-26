@@ -67,7 +67,7 @@ def greedy_bot(D, round_number, bot_score, op_score):
     return score
 ```
 
-
+<img src="/images/GanGs/AllVall.png?raw=true"/>
 <img src="/images/GanGs/MAX_ROLLS.gif?raw=true"/>
 
 ## SIRD Modelling
