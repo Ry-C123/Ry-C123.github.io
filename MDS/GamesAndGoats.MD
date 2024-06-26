@@ -99,4 +99,13 @@ plt.show()
 
 ## Greedy Piggies
 
+The rules of Greedy Pig
+* During each turn of the game, you roll the die one or more times. You can continue rolling until you decide to stop or until you roll a 1. You may choose to stop rolling at any point.
+* If you roll a 1, your score for that turn becomes 0.
+* If you stop rolling before rolling a 1, your score for that turn is the total of all the numbers you rolled.
+* Each player gets 10 turns.
+* The player with the highest total score after all turns wins.
+
+<img src="/images/GanGs/MAX_ROLL.gif?raw=true"/>
+
 ## SIRD Modelling
