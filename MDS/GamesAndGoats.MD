@@ -106,6 +106,6 @@ The rules of Greedy Pig
 * Each player gets 10 turns.
 * The player with the highest total score after all turns wins.
 
-<img src="/images/GanGs/MAX_ROLL.gif?raw=true"/>
+<img src="/images/GanGs/MAX_ROLLS.gif?raw=true"/>
 
 ## SIRD Modelling
