@@ -39,6 +39,9 @@ The rules of Greedy Pig
 * Each player gets 10 turns.
 * The player with the highest total score after all turns wins.
 
+First, the students are told to come up with a strategy. They are given two bots they need to beat/learn the code format `loser_bot` and `greedy_bot`.
+
+
 <img src="/images/GanGs/MAX_ROLLS.gif?raw=true"/>
 
 ## SIRD Modelling
