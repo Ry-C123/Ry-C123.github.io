@@ -1,7 +1,7 @@
 title: Ry Cutter # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  A PhD in Astrophysics turned Data Scientist and software engineer, driven by a passion for science communication and innovative problem-solving. 
+  A PhD in Astrophysics turned Data Scientist and Software Engineer, driven by a passion for science communication and innovative problem-solving. 
   <br><br>
   <b>Multidisciplinary:</b><br>
   - Lead Innovation Data Scientist <br>
@@ -13,6 +13,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://uk.linkedin.com/in/ry-cutter">View My LinkedIn Profile</a>
   <br><br>
   My CV
+  <br>
+  "/images/Div_Circs.gif?raw=true"
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
