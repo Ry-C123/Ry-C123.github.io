@@ -22,3 +22,8 @@
 - [GRB181201A: GOTO optical observations](https://ui.adsabs.harvard.edu/abs/2018GCN.23503....1R/abstract)
 - [GRB 180914B: GOTO optical detection](https://ui.adsabs.harvard.edu/abs/2018GCN.23252....1R/abstract)
 - [Observational constraints on the optical and near-infrared emission from the neutron star-black hole binary merger S190814bv](https://hal.science/hal-02904245/document)
+- [Self-supervised clustering on image-subtracted data with deep-embedded self-organizing map](https://academic.oup.com/mnras/article/518/1/752/6794293?login=false)
+- [Light curve classification with recurrent neural networks for GOTO: dealing with imbalanced data](https://academic.oup.com/mnras/article/505/3/4345/6287587?login=false)
+- [Processing GOTO data with the Rubin Observatory LSST Science Pipelines II: Forced Photometry and light curves](https://doi.org/10.1017/pasa.2021.19)
+- [Processing GOTO data with the Rubin Observatory LSST Science Pipelines I : Production of coadded frames](https://doi.org/10.1017/pasa.2020.45)
+- [Transient-optimised real-bogus classification with Bayesian Convolutional Neural Networks -- sifting the GOTO candidate stream](https://doi.org/10.1093/mnras/stab633)
