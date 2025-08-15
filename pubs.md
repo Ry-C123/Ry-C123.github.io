@@ -2,6 +2,10 @@
 
 
 ## Patents
+- [Heater apparatus and methods](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB459628962)
+- [Hair dryer](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB459628976)
+- [Hair styling apparatus and method](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB459628975)
+
 
 ## Research Papers
 
