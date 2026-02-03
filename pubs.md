@@ -7,7 +7,7 @@
 - [Hair styling apparatus and method](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB459628975)
 - [A hair styling system and control thereof](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB465163511)
 - [Hair drying and/or styling device and method](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB468475624)
-- [Hair styling apparatus and method (2)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB464448361)
+- [Heater apparatus and method (2)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB464448361)
 
 
 ## Research Papers
