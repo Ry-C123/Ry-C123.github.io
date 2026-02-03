@@ -11,6 +11,7 @@
 - [Heater apparatus and method (3)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB464448359)
 - [Heater apparatus and method (4)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB471602349)
 - [Heater apparatus and method (5)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB462231187)
+- [Heater apparatus and method (6)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB459628962)
 
 
 ## Research Papers
