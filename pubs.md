@@ -9,6 +9,7 @@
 - [Hair drying and/or styling device and method](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB468475624)
 - [Heater apparatus and method (2)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB464448361)
 - [Heater apparatus and method (3)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB464448359)
+- [Heater apparatus and method (4)](https://patentscope.wipo.int/search/en/detail.jsf?docId=GB471602349)
 
 
 ## Research Papers
